@@ -1,5 +1,3 @@
-import imp
-from operator import mod
 from tkinter.font import ROMAN
 from django.shortcuts import render
 from django.http import HttpResponse
